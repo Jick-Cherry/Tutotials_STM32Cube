@@ -8,7 +8,7 @@ Tutotials for STM32 development based on HAL library
 - 如存在错误，欢迎批评指正
 
 ### 版本信息
-version0.0.0 by: J.Cherry 2023.6.19 in NJUST
+version0.0.0 by: J.Cherry 2023.6.19 in NJUST  
 version0.0.1  
     简介.md           by: K.Hu     2023.6.19 in NJUST  
     从哈佛结构到单片机 by: J.Cherry 2023.6.19 in NJUST  
