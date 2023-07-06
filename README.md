@@ -12,3 +12,5 @@ version0.0.0 by: J.Cherry 2023.6.19 in NJUST
 version0.0.1  
     简介.md           by: K.Hu     2023.6.19 in NJUST  
     从哈佛结构到单片机 by: J.Cherry 2023.6.19 in NJUST  
+version0.0.2 by: J.Cherry 2023.7.6 in NJUST 
+    补充了ADC/TIM/USART文件夹
