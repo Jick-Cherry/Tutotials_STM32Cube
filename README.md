@@ -14,3 +14,5 @@ version0.0.1
     从哈佛结构到单片机 by: J.Cherry 2023.6.19 in NJUST  
 version0.0.2 by: J.Cherry 2023.7.6 in NJUST 
     补充了ADC/TIM/USART文件夹
+version0.0.3 by: J.Cherry 2023.7.13 in NJUST 
+    添加了Gitee同步功能
